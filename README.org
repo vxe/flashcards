@@ -1,0 +1,29 @@
+* Overview
+Some things are worth drilling into your consciousness until they become part of the way one
+interacts with the world.  
+
+These flash cards can be run using the org-drill package in emacs http://orgmode.org/worg/org-contrib/org-drill.html
+
+For further inspiration of interesting things this package can be used for 
+- https://www.youtube.com/watch?v=uraPXeLfWcM
+
+* Terminology
+The cards themselves follow a naming convention which is still evolving but essentially the types
+of cards are as follows:
+
+** Definition
+   A meaning assigned to a word or phrase, a typical card will have a front side stating 
+   a stating a definition and a backside with the correponding definition. Good candidate for 
+   two sided cards
+
+** Concept
+   A concept may be either an logical application of a definition to produce new definitions
+   or a chain of reasoning which leads to further definitions.  Obviously there are other types
+   of concepts but generally speaking a [[https://apps.ankiweb.net/docs/manual.html#cloze][cloze]] cards is the best way to model a conept
+
+** Facts
+   Information and sometimes trivia related to the topic of discourse. 
+
+
+* Topics
+** [[file:software-systems.org][Software Systems]]
